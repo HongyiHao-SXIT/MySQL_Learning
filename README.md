@@ -3,7 +3,7 @@
 This is a repository that contains the content of the **MySql 8.0** course for the sixth semester of the Computer Science major in the Department of Big Data and Intelligent Engineering at Shanxi Intitute of Technology.The instructor is **Xiaoxia Wang**.
 ## Struct
 ```
-sxit-MySql8.0_learning/
+sxit-MySql 8.0_learning/
 ├── Lectures/   //Class content
 │   ├── Record/     //Class record
 │   │   ├── Date/
