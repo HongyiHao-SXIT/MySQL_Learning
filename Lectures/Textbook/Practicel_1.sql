@@ -19,3 +19,14 @@ CREATE TABLE IF NOT EXISTS course (
     term INT(2) NOT NULL,
     PRIMARY KEY (courseno)
 );
+
+
+CREATE TABLE IF NOT EXISTS teacher (
+    teacherno CHAR(6) NOT NULL COMMENT '教师号',
+    tname CHAR(6) NOT NULL COMMENT'教师名字',
+    major CHAR(8) NOT NULL,
+    prof INT(2) NOT NULL,
+    exp INT(2) NOT NULL,
+    term INT(2) NOT NULL,
+    PRIMARY KEY (courseno)
+);
