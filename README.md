@@ -10,9 +10,7 @@ sxit-MySql 8.0_learning/
 │   │   │   │   ├── MySql8.0_Date_P1.wav   //Part 1 of every class
 │   │   │   │   ├── MySql8.0_Date_P2.wav   //Part 2 of every class
 │   ├── Textbook/   //Code and practice in textbook
-│   │   ├── Practicel[]/
-│   │   │   ├── practicel[].sql
-│   │   │   ├── practical[].sql
+│   │   ├── TABLE_NAME.sql
 ├──Experiment/  //A folder containing classroom experiment code
 │   ├── Project[]/
 │   │   ├── Project[].html
